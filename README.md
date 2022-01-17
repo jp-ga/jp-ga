@@ -1,1 +1,3 @@
-- Juan P. Gonzalez-Aguilera GitHub profile
+---
+Config Files for my GitHub profile
+---
